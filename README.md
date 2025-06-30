@@ -24,12 +24,12 @@ Whether you're a fellow data enthusiast, recruiter, or researcher, I hope you fi
 🌾 Crop Nutrient Recommendation System
 
 
-1) 📱 Google Play Store Analysis
+### 1) 📱 Google Play Store Analysis
 A deep dive into the app ecosystem of the Google Play Store.
 
 Objective: Understand key trends in app ratings, categories, size, installs, and user sentiment.
 
-## 🔍 Highlights:
+🔍 Highlights:
 
 Outlier detection and removal for skewed installs and reviews
 
@@ -44,7 +44,7 @@ Linear Regression, Random Forest, Gradient Boost, KNN Regression, XGBoost
 
 
 
-2) 🚧 US Accidents Analysis (2016–2023)
+### 2) 🚧 US Accidents Analysis (2016–2023)
 A predictive and exploratory analysis on the largest publicly available US traffic accident dataset.
 
 Objective: Analyze accident patterns and predict accident severity based on weather, location, and road conditions.
@@ -62,7 +62,7 @@ Linear Regression, Random Forest, Gradient Boost, KNN, Naive Bayes
 
 
 
-3) 💎 Diamond Price Prediction
+### 3) 💎 Diamond Price Prediction
 Predicting diamond prices using structured features like carat, cut, clarity, and color.
 
 Objective: Build a regression pipeline to estimate diamond prices accurately.
@@ -80,7 +80,7 @@ Random Forest Regressor, XGBoost, SVR (Support Vector Regression)
 
 
 
-4) 🌾 Crop Nutrient Recommendation System
+### 4) 🌾 Crop Nutrient Recommendation System
 A smart agriculture project leveraging ensemble machine learning for nutrient planning.
 
 Objective: Recommend the most suitable fertilizer based on soil nutrient levels (N, P, K), temperature, humidity, and crop type.
