@@ -24,12 +24,14 @@ Whether you're a fellow data enthusiast, recruiter, or researcher, I hope you fi
 🌾 Crop Nutrient Recommendation System
 
 
+
+
 ### 1) 📱 Google Play Store Analysis
 A deep dive into the app ecosystem of the Google Play Store.
 
 Objective: Understand key trends in app ratings, categories, size, installs, and user sentiment.
 
-🔍 Highlights:
+***🔍 Highlights:***
 
 Outlier detection and removal for skewed installs and reviews
 
@@ -49,7 +51,7 @@ A predictive and exploratory analysis on the largest publicly available US traff
 
 Objective: Analyze accident patterns and predict accident severity based on weather, location, and road conditions.
 
-📍 Highlights:
+***📍 Highlights:***
 
 Temporal and geographic analysis of accident trends
 
@@ -67,7 +69,7 @@ Predicting diamond prices using structured features like carat, cut, clarity, an
 
 Objective: Build a regression pipeline to estimate diamond prices accurately.
 
-💡 Highlights:
+***💡 Highlights:***
 
 Feature encoding for ordinal variables (cut, clarity, etc.)
 
@@ -85,7 +87,7 @@ A smart agriculture project leveraging ensemble machine learning for nutrient pl
 
 Objective: Recommend the most suitable fertilizer based on soil nutrient levels (N, P, K), temperature, humidity, and crop type.
 
-🧠 Highlights:
+***🧠 Highlights:***
 
 Ensemble-based classification with voting and stacking
 
