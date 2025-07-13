@@ -82,7 +82,7 @@ Random Forest Regressor, XGBoost, SVR (Support Vector Regression)
 
 
 
-### 4) 🌾 Crop Nutrient Recommendation System
+### 4) 🌾 Crop Nutrient Recommendation System (Kaggle Competition)
 A smart agriculture project leveraging ensemble machine learning for nutrient planning.
 
 Objective: Recommend the most suitable fertilizer based on soil nutrient levels (N, P, K), temperature, humidity, and crop type.
