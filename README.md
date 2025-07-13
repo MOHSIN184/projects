@@ -21,7 +21,7 @@ Whether you're a fellow data enthusiast, recruiter, or researcher, I hope you fi
 
 💎 Diamond Price Prediction
 
-🌾 Crop Nutrient Recommendation System
+🌾 Crop Nutrient Recommendation System (Kaggle Competition)
 
 
 
